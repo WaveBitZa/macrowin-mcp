@@ -92,7 +92,7 @@ Full guide: [macrowin.org/docs/guides/ai](https://macrowin.org/docs/guides/ai?re
 - Features: [macrowin.org/features](https://macrowin.org/features?ref=github-mcp)
 - Try the editor in your browser: [macrowin.org/demo](https://macrowin.org/demo?ref=github-mcp)
 - Pricing: [macrowin.org/pricing](https://macrowin.org/pricing?ref=github-mcp)
-- Video: [the MacroWin trailer](https://www.youtube.com/watch?v=cSqsaEOJGUQ)
+- Video: [the MacroWin trailer](https://www.youtube.com/watch?v=k2BcnzW47cY)
 - Support: info@macrowin.org or [macrowin.org/docs#support](https://macrowin.org/docs?ref=github-mcp#support)
 
 ![The AI builder in MacroWin](images/ai.png)
