@@ -1,5 +1,7 @@
 # MacroWin MCP server
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/wavebitza/macrowin-mcp)
+
 Let the AI apps you already use work with your Windows macros. Claude Desktop, Claude Code, Cursor, VS Code with
 GitHub Copilot, Codex, Gemini CLI, Windsurf, ChatGPT's desktop app and any other MCP client can read your
 [MacroWin](https://macrowin.org/?ref=github-mcp) macros, explain why one didn't run, and propose new or changed
